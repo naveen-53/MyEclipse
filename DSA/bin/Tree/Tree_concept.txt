@@ -1,0 +1,38 @@
+
+
+* Tree is a non linear data structure.
+* It consists Nodes and edges
+*
+
+* Application
+----------------
+ 	1. File System
+ 	2. search Trees
+	3. XML parsers
+	
+	
+* root node is main node there is no parent
+
+* child - direct successor
+* parent - direct predecessor
+* sibling - children of same parent
+* leaf - nodes with no child - external node
+* non leaf nodes - internal nodes
+* N nodes --> N-1 edges
+
+* Path - sequence of consecutive edges between 2 nodes
+
+* ancestor - any predecessor node on path from root to that node
+
+* descendant - any successor node on a path from that node a leaf node
+
+* sub tree - containing a node of a tree and all it's descendants
+
+* depth - no of edges in the path from root to the code
+
+* height - no of edges in longest path from the node to leaf
+
+* degree - no of children of a node
+
+
+

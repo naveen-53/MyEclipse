@@ -1,0 +1,21 @@
+package JavaTopics;
+
+class OuterClass{
+	int x=10;
+	class InnerClass{
+		int y=5;
+	}
+}
+
+public class JavaInnerClass {
+
+	public static void main(String[] args) {
+		
+		OuterClass myOuter = new OuterClass();
+		
+		//Syntax -->  OuterClassName.InnerClassName InnerClassObject = OuterClassObject.new InnerClass();
+		OuterClass.InnerClass myInner = myOuter.new InnerClass();
+		System.out.println(myInner.y+myOuter.x);
+	}
+
+}

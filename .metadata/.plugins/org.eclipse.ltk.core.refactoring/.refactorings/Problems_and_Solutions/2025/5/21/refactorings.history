@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Patterns.Diamond&apos; to &apos;DiamondStar&apos;&#x0D;&#x0A;- Original project: &apos;Problems_and_Solutions&apos;&#x0D;&#x0A;- Original element: &apos;Patterns.Diamond&apos;&#x0D;&#x0A;- Renamed element: &apos;Patterns.DiamondStar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Diamond&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Patterns{Diamond.java[Diamond" matchStrategy="1" name="DiamondStar" qualified="false" references="true" similarDeclarations="false" stamp="1747850064789" textual="false" version="1.0"/>
+</session>

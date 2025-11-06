@@ -1,0 +1,66 @@
+Binary Tree :
+-------------
+
+* nodes with atmost two children
+
+* it follows  2^h
+
+* maximum no of nodes = 2^0 + 2^1 + 2^2 + .......+ 2^h  (h is height of tree)
+
+                    S = { [a( r^n - 1)] / (r-1) }       (  a--> 1st term , r--> 2 , n --> (h+1) height  )
+                    
+                      =  { [ 2^0 ( 2^(h+1) -1 ) ] / 2-1 }
+                      
+                      =  2^(h+1) - 1 ;
+                    
+                    
+* minimum no of nodes = h+1;
+
+* maximum height with n nodes = n-1;
+
+* minimum height with n nodes :
+						2^(h+1) -1 = n;
+						
+						2^(h+1)  = n+1
+						
+					log 2^(h+1)  =  log (n+1)
+						
+					(h+1) log 2  = log (n+1)
+					
+							h+1  = log (n+1) / log 2
+							
+							h = log_2 (n+1)  - 1;
+							
+							h = log (n+1) -1 ;
+-------------------------------------------------------------------------------------------------------------------
+							
+							
+Types of Binary Tree:
+------------------------
+
+	1. full/proper/strict binary tree
+	
+		* it is have only 0 or 2 children
+		* no of leaf nodes = no of internal nodes +1 
+		* minimum no of nodes is 2h+1;
+		* maximum height with n nodes  is (n-1)/2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

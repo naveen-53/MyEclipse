@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Java_8_Features.Streams.Stream_Practice&apos; to &apos;Stream_Practice_Numbers&apos;&#x0D;&#x0A;- Original project: &apos;JavaTopics&apos;&#x0D;&#x0A;- Original element: &apos;Java_8_Features.Streams.Stream_Practice&apos;&#x0D;&#x0A;- Renamed element: &apos;Java_8_Features.Streams.Stream_Practice_Numbers&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Stream_Practice&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Java_8_Features.Streams{Stream_Practice.java[Stream_Practice" matchStrategy="1" name="Stream_Practice_Numbers" qualified="false" references="true" similarDeclarations="false" stamp="1755707364875" textual="false" version="1.0"/>
+</session>
