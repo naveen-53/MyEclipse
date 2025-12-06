@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\BLUE SCOPE\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1520424629.index
+\my-servlet-app\src\main\java

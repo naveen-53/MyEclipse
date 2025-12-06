@@ -1,0 +1,2 @@
+Hello Chief!
+This file is stored inside the 'files' folder.

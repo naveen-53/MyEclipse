@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\BLUE SCOPE\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4057083349.index
+703087196.index
+1114565398.index
+4183288037.index
+669438189.index
+67745266.index

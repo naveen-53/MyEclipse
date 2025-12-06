@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;txt.FileReading&apos; to &apos;FileWriting&apos;&#x0D;&#x0A;- Original project: &apos;FileHandlingAll&apos;&#x0D;&#x0A;- Original element: &apos;txt.FileReading&apos;&#x0D;&#x0A;- Renamed element: &apos;txt.FileWriting&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FileReading&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;txt{FileReading.java[FileReading" matchStrategy="1" name="FileWriting" qualified="false" references="true" similarDeclarations="false" stamp="1765013268368" textual="false" version="1.0"/>
+</session>
